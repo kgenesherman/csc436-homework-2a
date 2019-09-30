@@ -5,8 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 added my-image componen
 
-added assets/imaes
+added assets/images
 
-spent 2 days messing with git.  Ha o recreate hit twice.   I HATE HIT.
+spent 2 days messing with git.  Ha o recreate hit twice.   I HATE GIT.
+
+adde my-button omponent
 
 
