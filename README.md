@@ -7,8 +7,16 @@ added my-image componen
 
 added assets/images
 
-spent 2 days messing with git.  Ha o recreate hit twice.   I HATE GIT.
+spent 2 days messing with git.  Had to recreate git twice.   I HATE GIT.
 
-adde my-button omponent
+adde my-button component.
+
+added my-service, with method likeImage.  Button urns green when pressed,
+but doesn't stay green.  likImage returns banged parameter.  trmplate string literal b
+ound to member property -- couldn'y figure this out.
+
+I would like to know how to do this.  Cn you publish a workingg version of this homework???
+
+
 
 
